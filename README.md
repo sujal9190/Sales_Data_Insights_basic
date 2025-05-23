@@ -24,5 +24,5 @@ The dataset (`dataset.csv`) contains fictional sales transaction records with th
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/sales-data-insights.git
+   git clone https://github.com/sujal9190/Sales_Data_Insights_basic.git
    cd sales-data-insights
